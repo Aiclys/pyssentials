@@ -42,5 +42,3 @@ def delfold(folder_to_delete):
     os.rmdir(folder_to_delete)
 
 
-
-delfile("noah.py")
